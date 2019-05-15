@@ -1,0 +1,4 @@
+Predicted errors in  components:
+Component Number: C219 Area(%): 116.682 Volume(%): 139.9365 OffsetX: 0.5428 OffsetY: -0.6969
+Component Number: C220 Area(%): 113.4615 Volume(%): 133.7047 OffsetX: 0.7608 OffsetY: -0.8128
+Component Number: C228 Area(%): 117.2394 Volume(%): 140.4678 OffsetX: 0.2483 OffsetY: -1.0898
